@@ -1,1 +1,1 @@
-# bookself-api
+# bookshelf-api
